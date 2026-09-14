@@ -7,3 +7,5 @@ $db = 'all_employee';
 
 $conn = new mysqli($host, $user, $pass, $db);
 Kamal
+
+Akbar
